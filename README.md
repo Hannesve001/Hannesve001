@@ -52,6 +52,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This is my second blog post](https://dev.to/hannesve001/this-is-my-second-blog-post-3io1)
+- [This is my first test blog post](https://dev.to/hannesve001/this-is-my-first-test-blog-post-1fh6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
