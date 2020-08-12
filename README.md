@@ -45,6 +45,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Panic sets in - PUBG Heavy Rain Event](https://www.youtube.com/watch?v=bqrv0EJIah8)
 <!-- YOUTUBE:END -->
 
 ---
