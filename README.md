@@ -1,11 +1,11 @@
 ### Hi there, I'm Hannes - aka [sgtReaper][website] 👋
 
-## I'm a DevOps Engineer and avid noob developer!
+## I'm a DevOps Engineer, avid noob developer and gamer!
 
-- 🔭 I’m currently working on automation
+- 🔭 I’m currently working on automation and all things Devops
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Contribute more to Open Source projects and develop my coding skills
 - ⚡ Fun fact: I love gamming and playing multiplayer games online
 
 ### Connect with me:
