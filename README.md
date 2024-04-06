@@ -1,4 +1,4 @@
-### Hi there, I'm Hannes - aka [sgtReaper][website] 👋
+### Hi there, I'm Hannes. 👋
 
 ## I'm a DevOps Engineer, avid noob developer and gamer!
 
